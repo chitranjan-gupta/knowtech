@@ -152,7 +152,8 @@ const Contact = () => {
             </div>
 
             <div className="p-4 py-6 rounded-lg bg-gray-50 dark:bg-gray-800 md:p-8">
-              <form netlify="true">
+              <form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+                <input type="hidden" name="form-name" value="contact" />
                 <div className="-mx-2 md:items-center md:flex">
                   <div className="flex-1 px-2">
                     <label className="block mb-2 text-sm text-gray-600 dark:text-gray-200">
