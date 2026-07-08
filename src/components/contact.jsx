@@ -121,7 +121,7 @@ const Contact = () => {
                 </p>
               </div> */}
 
-              <div>
+              {/* <div>
                 <span className="inline-block p-3 text-blue-500 rounded-full bg-blue-100/80 dark:bg-gray-800">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -148,7 +148,7 @@ const Contact = () => {
                 <p className="mt-2 text-sm text-blue-500 dark:text-blue-400">
                 {import.meta.env.VITE_CONTACT_PHONE_NO}
                 </p>
-              </div>
+              </div> */}
             </div>
 
             <div className="p-4 py-6 rounded-lg bg-gray-50 dark:bg-gray-800 md:p-8">

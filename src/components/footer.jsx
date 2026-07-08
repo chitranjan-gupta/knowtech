@@ -201,7 +201,7 @@ const Footer = () => {
             </a>
 
             <p className="mt-4 text-sm text-gray-500 sm:mt-0 dark:text-gray-300">
-              © KnowTech, 2024. All Rights Reserved.
+              © KnowTech, 2026. All Rights Reserved.
             </p>
 
             <div className="flex -mx-2">

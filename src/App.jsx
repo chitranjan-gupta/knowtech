@@ -4,7 +4,7 @@ import { FooterComponent } from "./components/footer";
 import { CTAComponent } from "./components/cta";
 // import { PricingComponent } from "./components/pricing";
 // import { TestimonialsComponent } from "./components/testimonials";
-import { TeamsComponent } from "./components/teams";
+// import { TeamsComponent } from "./components/teams";
 import { ContactComponent } from "./components/contact";
 import { ServicesComponent } from "./components/services";
 import { FAQSComponent } from "./components/faqs";
@@ -19,7 +19,7 @@ const LandingPage = () => {
       {/* <TestimonialsComponent /> */}
       {/* <PricingComponent /> */}
       <CTAComponent />
-      <TeamsComponent />
+      {/* <TeamsComponent /> */}
       <FAQSComponent />
       {/* <BlogsComponent /> */}
       <ContactComponent />
